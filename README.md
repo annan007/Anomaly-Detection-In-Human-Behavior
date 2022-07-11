@@ -15,6 +15,9 @@ e)Before testing the model, we need to convert the testing video sample to seque
 
 f) Finally, test the saved model AD.h5 on the test sample. `python test.py`
 
+
+
+> Note: The saved models were not added due to large size.
 	
 
 	
